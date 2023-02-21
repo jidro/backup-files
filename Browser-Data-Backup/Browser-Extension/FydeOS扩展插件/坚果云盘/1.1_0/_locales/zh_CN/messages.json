@@ -1,0 +1,50 @@
+{
+   "alertMessage": {
+      "description": "Warning to display before using this extension.",
+      "message": "为了您的数据安全，请前往您的坚果云 - 账户信息 - 安全选项，点击最下方的「添加应用」按钮创建一个专用应用密码。请在下方填入该密码，而不是您的坚果云账户密码。"
+   },
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "在 FydeOS 上使用您的坚果云盘。"
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "坚果云盘"
+   },
+   "mount": {
+      "description": "Label for a button that triggers the mount action.",
+      "message": "启用"
+   },
+   "mountAttempt": {
+      "description": "Popup notifcation that informs the user that the system is attempting to mount a new instance with the credentials they provided.",
+      "message": "启用中…"
+   },
+   "mountFail": {
+      "description": "Popup notifcation that informs the user that the system failed to mount a new instance with the credentials they provided.",
+      "message": "启用失败"
+   },
+   "mountHeader": {
+      "description": "Header describing the server mount form.",
+      "message": "坚果云盘"
+   },
+   "mountSuccess": {
+      "description": "Popup notifcation that informs the user that the system successfully mounted a new instance with the credentials they provided.",
+      "message": "启用成功"
+   },
+   "password": {
+      "description": "The user password",
+      "message": "密码"
+   },
+   "shortName": {
+      "description": "The short name of the application",
+      "message": "坚果云盘"
+   },
+   "url": {
+      "description": "The server's URL",
+      "message": "URL"
+   },
+   "username": {
+      "description": "The user name",
+      "message": "账户"
+   }
+}

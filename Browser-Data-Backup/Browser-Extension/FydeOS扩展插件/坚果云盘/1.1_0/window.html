@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+
+  <title data-message="mountHeader"></title>
+
+  <link rel="stylesheet" href="assets/materialize.min.css">
+  <link rel="stylesheet" href="styles/style.css">
+  <link rel="stylesheet" href="bower_components/jquery-toast-plugin/dist/jquery.toast.min.css"></script>
+  <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+  <script type="text/javascript" src="scripts/webdav_client.js"></script>
+  <script type="text/javascript" src="scripts/webdav_fs.js"></script>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="s12">
+        <div class="logo">
+          <img src="assets/logo.png" style="width: 64px">
+        </div>
+        <h1 data-message="mountHeader"></h1>
+        <div class="alert alert-warning alert-box" data-message="alertMessage"></div>
+        <div class="row">
+          <div class="input-field col s6 fyde-text">
+            <input id="username" type="text">
+            <label for="username" data-message="username"></label>
+          </div>
+          <div class="input-field col s6 fyde-text">
+            <input id="password" type="password">
+            <label for="password" data-message="password"></label>
+          </div>
+        </div>
+        <div class="button-wrap">
+          <button id="btnMount" class="btn waves-effect waves-light fyde disabled" type="submit" data-message="mount"></button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="assets/materialize.min.js"></script>
+  <script type="text/javascript" src="bower_components/jquery-toast-plugin/dist/jquery.toast.min.js"></script>
+  <script type="text/javascript" src="scripts/window.js"></script>
+</body>
+
+</html>

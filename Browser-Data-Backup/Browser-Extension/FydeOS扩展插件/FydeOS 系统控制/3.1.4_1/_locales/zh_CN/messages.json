@@ -1,0 +1,98 @@
+{
+   "confirmReboot": {
+      "message": "确定要重启吗？"
+   },
+   "contactTech": {
+      "message": "请把端口号和登录信息告知 FydeOS 技术支持人员以获取协助"
+   },
+   "enableRemoteHelperFailure": {
+      "message": "启动远程协助服务失败"
+   },
+   "enabled": {
+      "message": "是否启用"
+   },
+   "extDescription": {
+      "message": "为 FydeOS 提供核心服务和功能的重要组件。"
+   },
+   "extName": {
+      "message": "FydeOS 系统控制"
+   },
+   "extNameInHTML": {
+      "message": "系统控制"
+   },
+   "extSubTitle": {
+      "message": "你可以在这里对系统进行进一步的调整，以及获取更多的技术支持"
+   },
+   "notSupportedOS": {
+      "message": "你当前使用的操作系统不是 FydeOS"
+   },
+   "portNum": {
+      "message": "端口号"
+   },
+   "reboot": {
+      "message": "重启"
+   },
+   "settingTouchpadFailure": {
+      "message": "切换触摸板模式失败"
+   },
+   "settingTouchpadHint": {
+      "message": "如果你的触摸板不能正常工作，你可以在这里切换它的工作模式。"
+   },
+   "settingTouchpadHint1": {
+      "message": "这个操作立即生效"
+   },
+   "settingTouchpadModeTitle": {
+      "message": "切换触摸板模式"
+   },
+   "settingWifiDriverFailure": {
+      "message": "切换 Wifi 驱动失败"
+   },
+   "settingWifiDriverHint": {
+      "message": "如果你的机器是 Broadcom Wi-Fi 芯片，有可能默认的网卡驱动不能工作。你可以尝试选择另外一个 Wi-Fi 驱动。"
+   },
+   "settingWifiDriverHint1": {
+      "message": "请注意这个操作需要重启生效"
+   },
+   "settingWifiDriverTitle": {
+      "message": "切换 Wifi 驱动"
+   },
+   "starting": {
+      "message": "正在启动……"
+   },
+   "subscriptionNotificationButtonConfirm": {
+      "message": "了解详情"
+   },
+   "subscriptionNotificationButtonIgnore": {
+      "message": "忽略"
+   },
+   "subscriptionNotificationRemindMessage": {
+      "message": "你的 FydeOS for You 订阅即将过期，点击此处了解详情并续费订阅以获得更好的使用体验。"
+   },
+   "subscriptionNotificationRemindTitle": {
+      "message": "FydeOS for You 订阅续费提醒"
+   },
+   "subscriptionNotificationRenewMessage": {
+      "message": "你的 FydeOS for You 订阅已经过期，点击此处了解详情并续费订阅以获得更好的使用体验。"
+   },
+   "subscriptionNotificationRenewTitle": {
+      "message": "FydeOS for You 订阅需要续费"
+   },
+   "subscriptionNotificationSingleUpgradeMessage": {
+      "message": "你现在可以升级到更新版本的 FydeOS for PC 了，点击此处了解详情并升级。"
+   },
+   "subscriptionNotificationSingleUpgradeTitle": {
+      "message": "已有新版本的 FydeOS 可供升级"
+   },
+   "toggleRemoteHelperHint": {
+      "message": "通过启用远程协助服务，获取更多来自 FydeOS 的技术支持"
+   },
+   "toggleRemoteHelperTitle": {
+      "message": "远程协助服务"
+   },
+   "tryRestartRemoteHelper": {
+      "message": "请尝试重新开启远程协助服务"
+   },
+   "unknown": {
+      "message": "未知"
+   }
+}

@@ -1,0 +1,27 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "bower_components/jquery/dist/jquery.min.js", "scripts/metadata_cache.js", "scripts/webdav_client.js", "scripts/webdav_fs.js", "scripts/background.js" ]
+      }
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDescription__",
+   "file_system_provider_capabilities": {
+      "multiple_mounts": true,
+      "source": "network"
+   },
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA550a0O6/xB76Ak9a48OlbUV/ZkxdhuvMkaNNfi10ggFw5jAJo41W/L7N4p4tncUDTQNu+K2wVUQIfe/FTikYeJ7DsLJUxuMotF2i0Zxnn83vegZJ0COTv7ZHxPndpi2RMcMZRDez2+AXTjwUFTGUfkyEzHC81Dd6c807RmRwrQ3/cvulfzoAuchJ9H6c8kIjs7fxyCwjN78pZtwJfqfGXvvz4dXR9AazWv8fmNhkP3Yhp3/9L+tCmN6heFvmzMnQSJeJWPNjqqLmDf7h/bp9yrorWe9TEliGd1jhuynWq5H1zhtOtg2cOxoNO2wjXGjphX0UUPc3KAtNbYah+TYY8wIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "42",
+   "name": "__MSG_appName__",
+   "permissions": [ "fileSystemProvider", "storage", "notifications", "http://*/", "https://*/" ],
+   "short_name": "__MSG_shortName__",
+   "update_url": "https://store.fydeos.com/update/kpnkdhagknjilnbjjakakopieodoiifn/updates.xml",
+   "version": "1.1"
+}

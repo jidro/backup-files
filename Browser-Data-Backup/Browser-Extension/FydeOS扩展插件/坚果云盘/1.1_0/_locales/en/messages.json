@@ -1,0 +1,50 @@
+{
+   "alertMessage": {
+      "description": "Warning to display before using this extension.",
+      "message": "Attention! For your data security, please go to your Nutstore - Settings - Security, and click \"Add Application\" button at the bottom to generate a dedicated application password. Fill that password below instead of your Nutstore account password."
+   },
+   "appDescription": {
+      "description": "The description of the application",
+      "message": "Use your Nutstore Drive on FydeOS."
+   },
+   "appName": {
+      "description": "The name of the application",
+      "message": "Nutstore Drive"
+   },
+   "mount": {
+      "description": "Label for a button that triggers the mount action.",
+      "message": "Mount"
+   },
+   "mountAttempt": {
+      "description": "Popup notifcation that informs the user that the system is attempting to mount a new instance with the credentials they provided.",
+      "message": "Mounting..."
+   },
+   "mountFail": {
+      "description": "Popup notifcation that informs the user that the system failed to mount a new instance with the credentials they provided.",
+      "message": "Failed to mount"
+   },
+   "mountHeader": {
+      "description": "Header describing the server mount form.",
+      "message": "Nutstore Drive"
+   },
+   "mountSuccess": {
+      "description": "Popup notifcation that informs the user that the system successfully mounted a new instance with the credentials they provided.",
+      "message": "Mounted successfully"
+   },
+   "password": {
+      "description": "The user password",
+      "message": "Password"
+   },
+   "shortName": {
+      "description": "The short name of the application",
+      "message": "Nutstore Drive"
+   },
+   "url": {
+      "description": "The server's URL",
+      "message": "URL"
+   },
+   "username": {
+      "description": "The user name",
+      "message": "Username"
+   }
+}

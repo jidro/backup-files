@@ -1,0 +1,22 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": true
+   },
+   "default_locale": "en",
+   "description": "__MSG_PRODUCT_DESCRIPTION__",
+   "externally_connectable": {
+      "matches": [ "*://*.fydeos.local/*", "*://*.fydeos.xyz/*", "*://*.fydeos.com/*", "*://*.fydeos.com:*/*" ]
+   },
+   "icons": {
+      "128": "images/logo-128.png",
+      "16": "images/logo-16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr1cDSdgVLA+jfuNTBXRSEMPs7lyP8FCo3WPLGsxioaWVlzMfS3L/ljLtUXkwLc1C15HsWnXI4BvPnjEyXl7niRxMKMGNk5QCD1VNT/Kov6kfpQh8fyriFAs7WtSJi8P0JqOqLZAkIT/xBlNy0lvPyKbUPwwEbKZIWKPhPKP/v0TaSv3NvMe2qHEIdSObfqffuHNxjqhEaTR+HD0ETsrNTj/XcA8Ryd/AWQudd1mZH0CO1yv4D0/iT5IwKvjg2Uks0lq3Z5utCwBwRRtp6xyopJZRdYfxSp6ASChEuQyrJY8I820MEWhW3BQbRB+T8sKjfwLipxdZZy9tFd2e/0OwCQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "32",
+   "name": "__MSG_PRODUCT_NAME__",
+   "permissions": [ "https://rtc.fydeos.com:5443/*", "https://apis.fydeos.com/*", "https://account.fydeos.com/*", "*://*.fydeos.com:*/*", "storage", "tabs", "activeTab", "nativeMessaging" ],
+   "update_url": "https://store.fydeos.com/update/fogdcaodknbhigpklbhepedofamkfbln/updates.xml",
+   "version": "1.1.4"
+}

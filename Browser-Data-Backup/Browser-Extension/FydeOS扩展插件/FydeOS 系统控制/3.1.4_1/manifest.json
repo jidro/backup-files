@@ -1,0 +1,30 @@
+{
+   "background": {
+      "persistent": true,
+      "scripts": [ "js/test.js", "js/system.js", "js/util.js", "js/app.js", "js/events.js", "js/white_list.js", "js/command_handler.js", "js/push_notification.js", "js/bg.js" ]
+   },
+   "browser_action": {
+      "default_popup": "popup/index.html"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "js/community.js" ],
+      "matches": [ "https://community.fydeos.com/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_extDescription__",
+   "externally_connectable": {
+      "ids": [ "iakadpgajjigiaojnbdmodlngmbkfhag", "hidnajblbifdkmheebalalchohohmaef", "dcpmfcngljljmfebilibmlfaokeginmb", "gpnlbpiaddglbmgfpenojdjkknmbjmki" ],
+      "matches": [ "*://*.fydeos.xyz/*", "*://*.fydeos.com/*" ]
+   },
+   "icons": {
+      "128": "assets/icon_128.png",
+      "16": "assets/icon_16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq/tfqKdHXgyJU27Oqq6QvlqhkecjIUQf9q7QNYW9EZxj3P18Mj15km9jhu2ZAVuzBDHvfYNIDtdBkE6wM1Kk4AAMQ4FaffcI3lnO0Y6aphdW8LMaiaRBB+MbUkTPQEqSmflBF7Fu9eW4BFXCw5Zh9f6nuLcVIXQ15oH91cvdx2HMUQV+jp6upzfEalqEZEcyYRu1nVlUPblA7+hZoyWZxPtdZbEk1pspukt/go+mcrGxFtntrG17iQ5HwdQAdCfrWN41Q8ku4pzlRw8daNiOPbR/6Qzs3yXCAaEh27FYfGkE4AJJJKibuNHnSUFd1PokyyCDrJfmizSNpDNKj7g06QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_extName__",
+   "permissions": [ "downloads", "downloads.open", "tabs", "contextMenus", "management", "webstorePrivate", "notifications", "*://*/*", "FydeOSPrivate", "settingsPrivate", "storage", "webNavigation" ],
+   "update_url": "https://store.fydeos.com/update/mofiofjpikncjaigmdlblhojbnkabako/updates.xml",
+   "version": "3.1.4"
+}

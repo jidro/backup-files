@@ -1,0 +1,27 @@
+{
+   "app": {
+      "background": {
+         "scripts": [ "js/bg.js" ]
+      }
+   },
+   "default_locale": "en",
+   "description": "FydeOS Web Store",
+   "icons": {
+      "128": "assets/fydeos-store-logo_128.png",
+      "16": "assets/fydeos-store-logo_16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAw++cI9Ds7my1GViAn+uJP6UDHWWsIX+LkP8FJMNEEzL1Gwk82C6nyjIjnU8iBPkaVQMvdMXRDgHm7helD5QqriD5edmMeiGlImYw6oapRElMUg8piCrR9m42lybI0ZQjpRSbNnfi3tHdNF2TB96ensLqfYmBkhmKcPVjfFwZ+s1r5pmRwKk5yL1aCVn2AavxnKSRL53vvd9eKZgt+P/3hN9BLhVc2FIPiMOJjG9lqpTl+WoZmpeq7NNfM13j3RvXxMDsDgjc+T5P4yvqa5QoJc3vqdx1oyZNyRXROLLGtTmrSJXWapsKjBCk1LAa0rATKc3KrTqXRsKRLyp68uLRVwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "37.0.0.0",
+   "name": "__MSG_extName__",
+   "offline_enabled": false,
+   "permissions": [ "FydeOSShellClient", "webstorePrivate", "https://store.fydeos.com/", "browser", "webview" ],
+   "update_url": "https://store.fydeos.com/update/hidnajblbifdkmheebalalchohohmaef/updates.xml",
+   "url_handlers": {
+      "init_type": {
+         "matches": [ "https://store.fydeos.com/?init=*", "https://store.fydeos.com/?appid=*" ],
+         "title": "FydeOS Web Store"
+      }
+   },
+   "version": "0.1.7"
+}

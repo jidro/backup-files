@@ -1,0 +1,1 @@
+chrome.runtime.onMessage.addListener(function(t,e,c){return"reload_community_page"===t.command&&fetch("https://account.fydeos.com/api/account/accountInfo",{credentials:"include"}).then(t=>{const{status:e}=t;if(200===e){if(!document.getElementById("current-user")){document.querySelector("button.login-button").click()}}c()}).catch(t=>{}),!0});

@@ -1,0 +1,98 @@
+{
+   "confirmReboot": {
+      "message": "Are you sure you want to reboot?"
+   },
+   "contactTech": {
+      "message": "Tell the port and login info to FydeOS Support to get help"
+   },
+   "enableRemoteHelperFailure": {
+      "message": "Start remote helper service failed"
+   },
+   "enabled": {
+      "message": "Enabled"
+   },
+   "extDescription": {
+      "message": "Essential and mandatory component for core FydeOS services and functions, distributed as pre-installed in every copy of FydeOS."
+   },
+   "extName": {
+      "message": "FydeOS System Controller"
+   },
+   "extNameInHTML": {
+      "message": "System Controller"
+   },
+   "extSubTitle": {
+      "message": "Here you can make further adjustments to the system and get more technical support"
+   },
+   "notSupportedOS": {
+      "message": "Your current OS is not FydeOS"
+   },
+   "portNum": {
+      "message": "Port number"
+   },
+   "reboot": {
+      "message": "Reboot"
+   },
+   "settingTouchpadFailure": {
+      "message": "Switch touchpad mode failed"
+   },
+   "settingTouchpadHint": {
+      "message": "If your touchpad does not function properly, you can change the working mode here."
+   },
+   "settingTouchpadHint1": {
+      "message": "You should be able to see the effect immediately"
+   },
+   "settingTouchpadModeTitle": {
+      "message": "Touchpad mode"
+   },
+   "settingWifiDriverFailure": {
+      "message": "Switch wifi driver failed"
+   },
+   "settingWifiDriverHint": {
+      "message": "If you have a Broadcom Wi-Fi chip, it could be possible that the default Wi-Fi driver does not work (reported on some models of Apple computers). You could try switching to an alternative (open-source) Wi-Fi driver that we have prepared specifically for these Broadcom chips."
+   },
+   "settingWifiDriverHint1": {
+      "message": "Note that a reboot is needed for this to work."
+   },
+   "settingWifiDriverTitle": {
+      "message": "Wi-Fi driver switch"
+   },
+   "starting": {
+      "message": "Starting..."
+   },
+   "subscriptionNotificationButtonConfirm": {
+      "message": "Learn more"
+   },
+   "subscriptionNotificationButtonIgnore": {
+      "message": "Ignore"
+   },
+   "subscriptionNotificationRemindMessage": {
+      "message": "Your current FydeOS for You subscription will expire soon. Please click here to learn more and renew your subscription."
+   },
+   "subscriptionNotificationRemindTitle": {
+      "message": "Renewing your FydeOS for You subscription"
+   },
+   "subscriptionNotificationRnewMessage": {
+      "message": "Your FydeOS for You subscription has expired, your journey with FydeOS doesn’t have to. Please click here to learn more and renew your subscription."
+   },
+   "subscriptionNotificationRnewTitle": {
+      "message": "Please renew your FydeOS for You subscription"
+   },
+   "subscriptionNotificationSingleUpgradeMessage": {
+      "message": "You can update to a newer version of FydeOS for PC now. Please click here to learn more and update your FydeOS."
+   },
+   "subscriptionNotificationSingleUpgradeTitle": {
+      "message": "A new version of FydeOS is available"
+   },
+   "toggleRemoteHelperHint": {
+      "message": "You can get more help from FydeOS by enable remote helper service"
+   },
+   "toggleRemoteHelperTitle": {
+      "message": "Remote helper service"
+   },
+   "tryRestartRemoteHelper": {
+      "message": "Please try to stop and enable remote helper again"
+   },
+   "unknown": {
+      "message": "Unknown"
+   }
+}
