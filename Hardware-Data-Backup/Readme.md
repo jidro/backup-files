@@ -28,9 +28,9 @@ The files in this folder are the collected data backup related to the hardware b
 
 ### Document description：
 
-- The [360-P0-Router](https://github.com/jidro/backup-files/tree/master/Hardware-Data-Backup/360-P0-Router "360-P0-Router") folder is the relevant backup of the 360 P0 router (/360 MINI router).
+- The [`360-P0-Router`](https://github.com/jidro/backup-files/tree/master/Hardware-Data-Backup/360-P0-Router "360-P0-Router") folder is the relevant backup of the 360 P0 router (/ 360 MINI router).
 
-- The [Redmi-AC2100-Router](https://github.com/jidro/backup-files/tree/master/Hardware-Data-Backup/Redmi-AC2100-Router "Redmi-AC2100-Router") folder is the relevant backup of the Redmi-AC2100 router.
+- The [`Redmi-AC2100-Router`](https://github.com/jidro/backup-files/tree/master/Hardware-Data-Backup/Redmi-AC2100-Router "Redmi-AC2100-Router") folder is the relevant backup of the Redmi-AC2100 router.
 
 - ……
 
