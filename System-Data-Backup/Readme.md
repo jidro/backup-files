@@ -8,9 +8,9 @@
 
 ### 文件说明：
 
-- [`Windows`-`Hosts`导出文件](https://github.com/jidro/backup-files/tree/master/System-Data-Backup/Windows-Hosts%E5%AF%BC%E5%87%BA%E6%96%87%E4%BB%B6 "Windows-Hosts导出文件")文件夹为之前或正在使用的`Windows`系统的`hosts`文件备份。
+- [Windows-Hosts-Backup](https://github.com/jidro/backup-files/tree/master/System-Data-Backup/Windows-Hosts-Backup "Windows-Hosts-Backup")文件夹为之前或正在使用的`Windows`系统的`hosts`文件备份。
 
-- [`Windows`关联程序导出文件](https://github.com/jidro/backup-files/tree/master/System-Data-Backup/Windows%E5%85%B3%E8%81%94%E7%A8%8B%E5%BA%8F%E5%AF%BC%E5%87%BA%E6%96%87%E4%BB%B6 "Windows关联程序导出文件")文件夹为之前或正在使用的`Windows`系统的关联程序文件备份。
+- [Windows-Associated-Program-Backup](https://github.com/jidro/backup-files/tree/master/System-Data-Backup/Windows-Associated-Program-Backup "Windows-Associated-Program-Backup")文件夹为之前或正在使用的`Windows`系统的关联程序文件备份。
 
 - ……
 
@@ -30,9 +30,9 @@ This folder is a backup of the configuration file or data file of the system tha
 
 ### Document description：
 
-- The [`Windows`-`Hosts`导出文件](https://github.com/jidro/backup-files/tree/master/System-Data-Backup/Windows-Hosts%E5%AF%BC%E5%87%BA%E6%96%87%E4%BB%B6 "Windows-Hosts导出文件") folder is the `hosts` file backup of the previous or current `Windows` system.
+- The [Windows-Hosts-Backup](https://github.com/jidro/backup-files/tree/master/System-Data-Backup/Windows-Hosts-Backup "Windows-Hosts-Backup") folder is the `hosts` file backup of the previous or current `Windows` system.
 
-- The [`Windows`关联程序导出文件](https://github.com/jidro/backup-files/tree/master/System-Data-Backup/Windows%E5%85%B3%E8%81%94%E7%A8%8B%E5%BA%8F%E5%AF%BC%E5%87%BA%E6%96%87%E4%BB%B6 "Windows关联程序导出文件") folder is the backup of the associated program file of the previous or current `Windows` system.
+- The [Windows-Associated-Program-Backup](https://github.com/jidro/backup-files/tree/master/System-Data-Backup/Windows-Associated-Program-Backup "Windows-Associated-Program-Backup")folder is the backup of the associated program file of the previous or current `Windows` system.
 
 - ……
 
