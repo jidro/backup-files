@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<APML version="0.6">
+  <Head>
+    <Title>FeedDemon Attention Profile</Title>
+    <Generator>FeedDemon</Generator>
+    <DateCreated>2024-02-03T05:03:36</DateCreated>
+  </Head>
+  <Body defaultprofile="FeedDemon Subscriptions">
+    <Profile name="FeedDemon Subscriptions">
+      <ImplicitData>
+        <Concepts/>
+        <Sources>
+          <Source key="http://newsrss.bbc.co.uk/rss/sportonline_world_edition/front_page/rss.xml" from="BBC Sport | Sport Homepage | World Edition" updated="2024-02-03T03:57:11" value="1.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.bodyrock.tv/feed/" from="Bodyrock.tv" updated="2024-02-03T03:56:53" value="1.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://feeds.feedburner.com/buzzsugar" from="BuzzSugar" updated="2024-02-03T03:59:47" value="1.00" type="application/rss+xml" path="游戏资讯"/>
+          <Source key="http://www.cinematical.com/rss.xml" from="Cinematical" updated="2024-02-03T03:59:40" value="1.00" type="application/rss+xml" path="游戏资讯"/>
+          <Source key="http://cuteoverload.com/feed/" from="Cute Overload" updated="2024-02-03T03:56:54" value="1.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://feeds.feedburner.com/DilbertDailyStrip" from="Dilbert Daily Strip" updated="2024-02-03T03:55:43" value="1.00" type="application/rss+xml" path="书籍评价"/>
+          <Source key="http://feeds.feedburner.com/fitsugar" from="FitSugar" updated="2024-02-03T03:57:19" value="1.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://inessential.com/xml/rss.xml" from="inessential.com" updated="2024-02-03T03:49:35" value="1.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.dsfanboy.com/rss.xml" from="Joystiq" updated="2024-02-03T03:59:39" value="1.00" type="application/rss+xml" path="游戏资讯"/>
+          <Source key="http://lifehacker.com/index.xml" from="Lifehacker" updated="2024-02-03T03:57:33" value="1.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.quotationspage.com/data/mqotd.rss" from="Motivational Quotes of the Day" updated="2024-02-03T03:58:03" value="1.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://feeds.feedburner.com/NickBradbury" from="Nick Bradbury" updated="2024-02-03T03:49:41" value="1.00" type="application/rss+xml" path="Windows应用软件"/>
+          <Source key="http://scripting.com/rss.xml" from="Scripting News" updated="2024-02-03T03:49:44" value="1.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.techdirt.com/techdirt_rss.xml" from="Techdirt" updated="2024-02-03T03:58:14" value="1.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.theguardian.com/rssfeed/0,,1,00.xml" from="The Guardian World News" updated="2024-02-03T03:58:42" value="1.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://feeds.feedburner.com/oatmealfeed" from="The Oatmeal" updated="2024-02-03T03:56:09" value="1.00" type="application/rss+xml" path="书籍评价"/>
+          <Source key="http://news.google.com/?topic=h&amp;num=3&amp;output=rss" from="Top Stories - Google News" updated="2024-02-03T03:58:45" value="1.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.urbandictionary.com/daily.rss" from="Urban Word of the Day" updated="2024-02-03T03:58:52" value="1.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://feeds.feedburner.com/MajorNelson" from="Xbox Live's Major Nelson" updated="2024-02-03T04:00:23" value="1.00" type="application/rss+xml" path="游戏资讯"/>
+          <Source key="http://rss.lizhi.fm/rss/14275.xml" from="大内密探" updated="2024-02-03T04:55:42" value="1.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.babydao.com/rss/index.xml" from="8090电影网" updated="2024-02-03T03:54:39" value="0.00" type="application/rss+xml" path="视频音乐"/>
+          <Source key="http://www.alloyteam.com/feed/" from="AlloyTeam" updated="2024-02-03T03:49:09" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://planet.archlinuxcn.org/atom.xml" from="Arch Linux 星球" updated="2024-02-03T04:50:01" value="0.00" type="application/rss+xml" path="Linux发行版"/>
+          <Source key="http://blog.cnbang.net/feed/" from="bang's blog" updated="2024-02-03T03:49:09" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://bzhang.lamost.org/website/feed/" from="Bo Zhang's Homepage" updated="2024-02-03T03:49:11" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://cuihao.is-programmer.com/feed" from="cuihao-&gt;blog" updated="2024-02-03T03:49:20" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://feeds.feedburner.com/simpledesktops" from="Desktops" updated="2024-02-03T03:51:17" value="0.00" type="application/rss+xml" path="精品美图"/>
+          <Source key="http://farseerfc.me/feeds/atom.xml" from="Farseerfc的小窩" updated="2024-02-03T03:49:24" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://feeds.feedburner.com/fdfaq" from="FeedDemon FAQ" updated="2024-02-03T03:49:20" value="0.00" type="application/rss+xml" path="Windows应用软件"/>
+          <Source key="http://fluxbox.org/news/news.rss" from="fluxbox news" updated="2024-02-03T04:51:40" value="0.00" type="application/rss+xml" path="Linux应用软件"/>
+          <Source key="http://blog.grayson.org.cn/feed.xml" from="Grayson's Blog" updated="2024-02-03T03:49:27" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://blog.guyskk.com/feed.xml" from="Guyskk的博客" updated="2024-02-03T03:49:29" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.porteus.org/?format=feed&amp;type=rss" from="Home - Porteus - Portable Linux" updated="2024-02-03T04:50:42" value="0.00" type="application/rss+xml" path="Linux发行版"/>
+          <Source key="http://www.foodmate.cn/feed/rss.php?mid=103" from="HR工具箱_烟台富美特—食品人才中心专注于食品人才招聘" updated="2024-02-03T04:00:06" value="0.00" type="application/rss+xml" path="招聘资讯"/>
+          <Source key=" https://feed.ipcfun.com" from="iPcFun" updated="2024-02-03T03:57:32" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://kkmkj.net/feed.php" from="kk梦空间" updated="2024-02-03T03:49:36" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.lamost.org/public/rss.xml?locale=en" from="LAMOST" updated="2024-02-03T03:55:48" value="0.00" type="application/rss+xml" path="天文爱好"/>
+          <Source key="http://feeds.launchpad.net/announcements.atom" from="Launchpad - All Announcements" updated="2024-02-03T03:51:40" value="0.00" type="application/rss+xml" path="开源资讯"/>
+          <Source key="http://www.matrix67.com/blog/feed" from="Matrix67" updated="2024-02-03T03:49:39" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.NetBSD.org/changes/rss-netbsd.xml" from="NetBSD.org News" updated="2024-02-03T03:56:33" value="0.00" type="application/rss+xml" path="系统资讯"/>
+          <Source key="http://www.nieklinnenbank.nl/feed8be0.php?mode=list&amp;ns=" from="Niek Linnenbank's Homepage" updated="2024-02-03T03:49:41" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.blogger.com/feeds/5398236625900904090/posts/default" from="NoobsLab | Eye on Digital World - Atom" updated="2024-02-03T03:58:14" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml" from="NYT &gt; Home Page" updated="2024-02-03T03:58:22" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.polarcloud.com/rss.xml?destination=/rikaichan_0510&amp;_exception_statuscode=403" from="Polarcloud.com - ^_^" updated="2024-02-03T03:49:42" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://smokey01.com/newsletters/rss.xml" from="Puppy Linux Newsletters" updated="2024-02-03T04:51:10" value="0.00" type="application/rss+xml" path="Linux发行版"/>
+          <Source key="http://www.senra.me/feed/" from="Senraの小窝" updated="2024-02-03T03:49:44" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://shrekshao.github.io/feed.xml" from="ShrekShao" updated="2024-02-03T03:49:44" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.skywind.me/blog/feed" from="Skywind Inside" updated="2024-02-03T03:49:45" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://blog.sunnyxx.com/atom.xml" from="sunnyxx" updated="2024-02-03T03:49:46" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://twrp.me/feed.xml" from="TeamWin - TWRP" updated="2024-02-03T03:56:43" value="0.00" type="application/rss+xml" path="系统资讯"/>
+          <Source key="http://wiki.tinycorelinux.net/feed.php" from="Tiny Core Linux Wiki" updated="2024-02-03T04:51:24" value="0.00" type="application/rss+xml" path="Linux发行版"/>
+          <Source key="http://www.polarcloud.com/taxonomy/term/4/feed" from="Tomato Firmware" updated="2024-02-03T03:56:44" value="0.00" type="application/rss+xml" path="系统资讯"/>
+          <Source key="http://rss.news.sohu.com/rss/yule.xml" from="八卦新闻" updated="2024-02-03T03:58:43" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.204800.com/feed/rss.php?mid=21" from="百科_掌上车友" updated="2024-02-03T03:54:32" value="0.00" type="application/rss+xml" path="汽车资讯"/>
+          <Source key="http://it.enorth.com.cn/rss/rollrss.xml" from="北方网IT浪潮" updated="2024-02-03T03:58:45" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://health.enorth.com.cn/rss.xml" from="北方网--健康之家" updated="2024-02-03T03:58:46" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://edu.enorth.com.cn/rss.xml" from="北方网--教育视线" updated="2024-02-03T03:58:46" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://travel.enorth.com.cn/rss.xml" from="北方网--旅游e站" updated="2024-02-03T03:58:46" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://auto.enorth.com.cn/rss.xml" from="北方网----汽车新地" updated="2024-02-03T03:54:13" value="0.00" type="application/rss+xml" path="汽车资讯"/>
+          <Source key="http://economy.enorth.com.cn/rss.xml" from="北方网--时代财经" updated="2024-02-03T03:58:46" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://fashion.enorth.com.cn/rss.xml" from="北方网--时尚呼吸" updated="2024-02-03T03:58:47" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://sports.enorth.com.cn/rss.xml" from="北方网--体育节拍" updated="2024-02-03T03:58:46" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://news.enorth.com.cn/rss.xml" from="北方网----新闻前线" updated="2024-02-03T03:58:47" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://ent.enorth.com.cn/rss.xml" from="北方网--娱乐风暴" updated="2024-02-03T03:58:47" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://house.enorth.com.cn/rss.xml" from="北方网--置业旺角" updated="2024-02-03T03:58:47" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://feed.cnblogs.com/blog/sitehome/rss" from="博客园" updated="2024-02-03T03:58:47" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://rss.news.sohu.com/rss/business.xml" from="财经热点新闻" updated="2024-02-03T03:58:47" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.chanpin100.com/feed" from="产品100" updated="2024-02-03T03:58:47" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.goodgupiao.com/article/rssfeed.asp?classid=20" from="炒股技巧 - 好股网" updated="2024-02-03T03:50:35" value="0.00" type="application/rss+xml" path="股市频道"/>
+          <Source key="http://www.qicheyongpin.com/feed/rss.php?mid=10" from="车品百科 - 汽车用品网" updated="2024-02-03T03:54:17" value="0.00" type="application/rss+xml" path="汽车资讯"/>
+          <Source key="http://weiwuhui.com/feed" from="扯氮集" updated="2024-02-03T03:49:54" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://video.adminqt.cn/index.php/rss/index.xml" from="初恋云影视城" updated="2024-02-03T03:55:03" value="0.00" type="application/rss+xml" path="视频音乐"/>
+          <Source key="http://www.gamedog.cn/rss/56.xml" from="单机库" updated="2024-02-03T03:59:42" value="0.00" type="application/rss+xml" path="游戏资讯"/>
+          <Source key="http://www.wsscsc.com/map/rss.xml" from="冬瓜影视" updated="2024-02-03T03:55:06" value="0.00" type="application/rss+xml" path="视频音乐"/>
+          <Source key="http://www.buzhi.com/data_2015/rss/1151.xml" from="公务员考试" updated="2024-02-03T04:00:07" value="0.00" type="application/rss+xml" path="招聘资讯"/>
+          <Source key="http://www.goodgupiao.com/article/rssfeed.asp?classid=18" from="股票入门 - 好股网" updated="2024-02-03T03:50:36" value="0.00" type="application/rss+xml" path="股市频道"/>
+          <Source key="http://rss.news.sohu.com/rss/guoji.xml" from="国际新闻" updated="2024-02-03T03:58:49" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://rss.news.sohu.com/rss/guonei.xml" from="国内要闻" updated="2024-02-03T03:58:49" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.qdaily.com//feed" from="好奇心日报" updated="2024-02-03T03:59:01" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.haoyonghaowan.com/feed" from="好用好玩导航" updated="2024-02-03T03:49:58" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.foodmate.net/feed/rss.php?mid=51" from="会展服务_食品伙伴网" updated="2024-02-03T03:54:22" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://www.foodmate.net/feed/rss.php?mid=45" from="检测项目_食品伙伴网" updated="2024-02-03T03:54:22" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://www.jdxiqu.com/feed/" from="经典戏曲网-河南豫剧大全-豫剧全场戏-豫剧选段-豫剧下载" updated="2024-02-03T03:55:15" value="0.00" type="application/rss+xml" path="视频音乐"/>
+          <Source key="http://www.buzhi.com/data_2015/rss/885.xml" from="考试资讯" updated="2024-02-03T04:00:08" value="0.00" type="application/rss+xml" path="招聘资讯"/>
+          <Source key="http://rss.news.sohu.com/rss/it.xml" from="科技频道" updated="2024-02-03T03:58:51" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.sciencenet.cn/xml/news-0.aspx?news=0" from="科学网新闻RSS——首页头条" updated="2024-02-03T03:58:52" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.foodmate.cn/feed/rss.php?mid=102" from="猎头_烟台富美特—食品人才中心专注于食品人才招聘" updated="2024-02-03T04:00:08" value="0.00" type="application/rss+xml" path="招聘资讯"/>
+          <Source key="http://www.cvchome.com/feed/rss.php?mid=29" from="零部件_商用车之家" updated="2024-02-03T03:50:52" value="0.00" type="application/rss+xml" path="好物推荐"/>
+          <Source key="http://comicat.org/rss.xml" from="漫猫动漫BT下载" updated="2024-02-03T03:55:18" value="0.00" type="application/rss+xml" path="视频音乐"/>
+          <Source key="http://feedx.best/rss/idaily.xml" from="每日环球视野" updated="2024-02-03T03:51:00" value="0.00" type="application/rss+xml" path="精品美图"/>
+          <Source key="http://www.daimg.com/rss/66.xml" from="美女图片" updated="2024-02-03T03:51:00" value="0.00" type="application/rss+xml" path="精品美图"/>
+          <Source key="http://www.jbhua.com/rss/141.xml" from="美少女简笔画" updated="2024-02-03T03:51:01" value="0.00" type="application/rss+xml" path="精品美图"/>
+          <Source key="http://blog.farmostwood.net/feed" from="木遥" updated="2024-02-03T03:50:06" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.aiminpsg.com/feed.php" from="农资百科网" updated="2024-02-03T03:54:22" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://nxog.top/feed.php" from="欧歌BLOG" updated="2024-02-03T03:50:06" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.people.com.cn/rss/politics.xml" from="人民网时政频道" updated="2024-02-03T03:58:54" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.ruanyifeng.com/blog/atom.xml" from="阮一峰的网络日志" updated="2024-02-03T03:50:07" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://blinkfox.com/atom.xml" from="闪烁之狐 blinkfox" updated="2024-02-03T03:59:22" value="0.00" type="application/rss+xml" path="应用推荐"/>
+          <Source key="http://rss.news.sohu.com/rss/shehui.xml" from="社会新闻" updated="2024-02-03T03:58:54" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.foodmate.net/feed/rss.php?mid=26" from="食品安全_食品伙伴网" updated="2024-02-03T03:54:22" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://down.foodmate.net/feed/rss.php?mid=23" from="食品标准_食品伙伴网下载中心" updated="2024-02-03T03:54:22" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://www.foodmate.net/feed/rss.php?mid=44" from="食品培训_食品伙伴网" updated="2024-02-03T03:54:22" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://www.foodmate.net/feed/rss.php?mid=42" from="食品培训中心_食品伙伴网" updated="2024-02-03T03:54:23" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://www.foodmate.net/feed/rss.php?mid=38" from="食品实验室_食品伙伴网" updated="2024-02-03T03:54:23" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://www.foodmate.net/feed/rss.php?mid=29" from="食品图库_食品伙伴网" updated="2024-02-03T03:54:23" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://www.foodmate.net/feed/rss.php?mid=30" from="食品网刊_食品伙伴网" updated="2024-02-03T03:54:23" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://www.foodmate.net/feed/rss.php?mid=40" from="食品网址_食品伙伴网" updated="2024-02-03T03:54:23" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://www.foodmate.net/feed/rss.php?mid=34" from="食品专题_食品伙伴网" updated="2024-02-03T03:54:23" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://down.foodmate.net/feed/rss.php?mid=24" from="食品资料_食品伙伴网下载中心" updated="2024-02-03T03:54:23" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://www.buzhi.com/data_2015/rss/884.xml" from="事业单位考试" updated="2024-02-03T04:00:09" value="0.00" type="application/rss+xml" path="招聘资讯"/>
+          <Source key="http://lukefan.com/feed/" from="硕鼠的博客站" updated="2024-02-03T03:50:11" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.4sbooks.com/feed" from="四季书评" updated="2024-02-03T03:50:32" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://rss.news.sohu.com/rss/pfocus.xml" from="搜狐焦点图新闻" updated="2024-02-03T03:58:55" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://rss.news.sohu.com/rss/focus.xml" from="搜狐焦点新闻" updated="2024-02-03T03:58:55" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://rss.news.sohu.com/rss/sports.xml" from="体育频道热点新闻" updated="2024-02-03T03:58:55" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://tjtv.enorth.com.cn/rss.xml" from="天视网" updated="2024-02-03T03:58:56" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.goodgupiao.com/gupiaogongshi/rssfeed.asp?classid=32" from="同花顺公式最新软件订阅 - 好股网" updated="2024-02-03T03:50:52" value="0.00" type="application/rss+xml" path="股市频道"/>
+          <Source key="http://gigix.thoughtworkers.org/atom.xml" from="透明思考 Transparent Thoughts" updated="2024-02-03T03:50:12" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.cvchome.com/feed/rss.php?mid=12" from="图库_商用车之家" updated="2024-02-03T03:50:52" value="0.00" type="application/rss+xml" path="好物推荐"/>
+          <Source key="http://rss.news.sohu.com/rss/learning.xml" from="文教新闻" updated="2024-02-03T03:58:56" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://micheer.net/feed" from="我的小角落" updated="2024-02-03T03:50:17" value="0.00" type="application/rss+xml" path="个人博客"/>
+          <Source key="http://www.evb.cn/feed/rss.php?mid=21" from="新能源汽车资讯-新能源汽车网" updated="2024-02-03T03:54:20" value="0.00" type="application/rss+xml" path="汽车资讯"/>
+          <Source key="http://www.gamelook.com.cn/feed" from="游戏大观 | GameLook.com.cn" updated="2024-02-03T04:00:16" value="0.00" type="application/rss+xml" path="游戏资讯"/>
+          <Source key="http://www.foodmate.cn/feed/rss.php?mid=8" from="招聘会_烟台富美特—食品人才中心专注于食品人才招聘" updated="2024-02-03T04:00:09" value="0.00" type="application/rss+xml" path="招聘资讯"/>
+          <Source key="http://www.zhihu.com/rss" from="知乎每日精选" updated="2024-02-03T03:59:03" value="0.00" type="application/rss+xml" path="新闻快报"/>
+          <Source key="http://www.foodmate.cn/feed/rss.php?mid=29" from="职场热点_烟台富美特—食品人才中心专注于食品人才招聘" updated="2024-02-03T04:00:10" value="0.00" type="application/rss+xml" path="招聘资讯"/>
+          <Source key="http://www.foodmate.net/feed/rss.php?mid=25" from="质量管理_食品伙伴网" updated="2024-02-03T03:54:24" value="0.00" type="application/rss+xml" path="食品资讯"/>
+          <Source key="http://www.cvchome.com/feed/rss.php?mid=21" from="资讯_商用车之家" updated="2024-02-03T03:54:22" value="0.00" type="application/rss+xml" path="汽车资讯"/>
+          <Source key="http://www.daimg.com/rss/64.xml" from="自然风景" updated="2024-02-03T03:51:17" value="0.00" type="application/rss+xml" path="精品美图"/>
+        </Sources>
+      </ImplicitData>
+      <ExplicitData>
+        <Concepts/>
+        <Sources/>
+      </ExplicitData>
+    </Profile>
+  </Body>
+</APML>
