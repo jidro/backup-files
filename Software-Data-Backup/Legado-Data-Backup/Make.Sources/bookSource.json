@@ -1,0 +1,420 @@
+[
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "小说·JD.Z",
+    "bookSourceName": "读书吧",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://www.zjxs.cc/",
+    "customOrder": -4,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "exploreUrl": "玄幻::http://www.zjxs.cc/xuanhuan/\n修真::http://www.zjxs.cc/xiuzhen/\n都市::http://www.zjxs.cc/dushi/\n历史::http://www.zjxs.cc/lishi/\n网游::http://www.zjxs.cc/wangyou/\n科幻::http://www.zjxs.cc/kehuan/\n言情::http://www.zjxs.cc/nvsheng/\n其他::http://www.zjxs.cc/qita/\n全本::http://www.zjxs.cc/quanben/",
+    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36\"\n}",
+    "lastUpdateTime": 1721450250599,
+    "respondTime": 2233,
+    "ruleBookInfo": {
+      "author": "id.info@tag.p.2@text",
+      "coverUrl": "id.fmimg@tag.img@src",
+      "intro": "id.intro@tag.p@textNodes",
+      "kind": "id.info@tag.p.0@text##分类：",
+      "lastChapter": "id.info@tag.p.-2@text##最新章节：",
+      "name": "id.info@tag.h1@text",
+      "tocUrl": "class.listmain"
+    },
+    "ruleContent": {
+      "content": "class.showtxt@html",
+      "nextContentUrl": "ul > li > a.-2@href"
+    },
+    "ruleExplore": {
+      "author": "dl > dt > span@text",
+      "bookList": "class.item",
+      "bookUrl": "dl > dt > a@href",
+      "coverUrl": "class.image@tag.img@src",
+      "intro": "dl > dd@text",
+      "name": "dl > dt > a@text"
+    },
+    "ruleReview": {},
+    "ruleSearch": {
+      "author": "class.author@text",
+      "bookList": "class.bookbox",
+      "bookUrl": "class.bookname@tag.a@href",
+      "coverUrl": "class.bookimg@tag.img@src",
+      "kind": "class.cat@text",
+      "lastChapter": "class.update@tag.a@text",
+      "name": "class.bookname@a@text"
+    },
+    "ruleToc": {
+      "chapterList": "dl > dd",
+      "chapterName": "dl > dd > a@text",
+      "chapterUrl": "dl > dd > a@href",
+      "nextTocUrl": "class.onclick@href"
+    },
+    "searchUrl": "http://www.zjxs.cc/uixfdhvidufhgidr.php?ie=gbk&q={{key}}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "小说·JD.Z",
+    "bookSourceName": "玉石榴文学",
+    "bookSourceType": 0,
+    "bookSourceUrl": "https://www.yv16.com/",
+    "customOrder": -3,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "exploreUrl": "玄幻魔法::https://www.yv16.com/list/xuanhuanmofa/1.htm\n武侠修真::https://www.yv16.com/list/wuxiaxiuzhen/1.htm\n都市言情::https://www.yv16.com/list/dushiyanqing/1.htm\n历史军事::https://www.yv16.com/list/lishijunshi/1.htm\n游戏竞技::https://www.yv16.com/list/youxijingji/1.htm\n科幻灵异::https://www.yv16.com/list/kehuanlingyi/1.htm\n综合其他::https://www.yv16.com/list/zongheqita/1.htm",
+    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\"\n}",
+    "lastUpdateTime": 1720863836679,
+    "respondTime": 12445,
+    "ruleBookInfo": {
+      "author": "class.writer@tag.a@text",
+      "coverUrl": "class.imgsss@tag.img@src",
+      "intro": "class.summary@tag.p@text",
+      "kind": "class.fa fa-sort fa-fw@text",
+      "lastChapter": "class.news@tag.a@text",
+      "name": "class.entry-title@text",
+      "tocUrl": "class.shuang has-thumb"
+    },
+    "ruleContent": {
+      "content": "id.acontent@html",
+      "nextContentUrl": "id.next_url@href"
+    },
+    "ruleExplore": {},
+    "ruleReview": {},
+    "ruleSearch": {
+      "author": "class.author@tag.a@text",
+      "bookList": "li > div",
+      "bookUrl": "class.title@tag.a@href",
+      "coverUrl": "class.imgs@tag.img@src",
+      "intro": "class.intro@text",
+      "kind": "",
+      "name": "class.title@tag.a@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.shuang has-thumb@tag.li",
+      "chapterName": "tag.a@text",
+      "chapterUrl": "tag.a@href"
+    },
+    "searchUrl": "https://www.yv16.com/search/?searchkey={{key}}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "小说·JD.Z",
+    "bookSourceName": "世界名著阅读",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://fb.newdu.com/m/index.php",
+    "customOrder": -2,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "exploreUrl": "[{\"title\":\"哲学\",\"url\":\"http://fb.newdu.com/book/list-15-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},\n{\"title\":\"哲学\",\"url\":\"http://fb.newdu.com/book/list-8-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"美学\",\"url\":\"http://fb.newdu.com/book/list-11-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"伦理学\",\"url\":\"http://fb.newdu.com/book/list-13-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"心理学\",\"url\":\"http://fb.newdu.com/book/list-17-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"社会科学\",\"url\":\"http://fb.newdu.com/book/list-1-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},\n{\"title\":\"经济学\",\"url\":\"http://fb.newdu.com/book/list-9-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"历史学\",\"url\":\"http://fb.newdu.com/book/list-10-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"社会学\",\"url\":\"http://fb.newdu.com/book/list-12-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"政治学\",\"url\":\"http://fb.newdu.com/book/list-14-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"法学\",\"url\":\"http://fb.newdu.com/book/list-16-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"自然科学\",\"url\":\"http://fb.newdu.com/book/list-18-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},\n{\"title\":\"文学\",\"url\":\"http://fb.newdu.com/book/list-26-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},\n{\"title\":\"散文、杂著\",\"url\":\"http://fb.newdu.com/book/list-24-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"作品集\",\"url\":\"http://fb.newdu.com/book/list-27-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"诗歌\",\"url\":\"http://fb.newdu.com/book/list-28-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"戏剧文学\",\"url\":\"http://fb.newdu.com/book/list-29-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"报告文学\",\"url\":\"http://fb.newdu.com/book/list-30-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"宗教文学\",\"url\":\"http://fb.newdu.com/book/list-31-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"长篇小说\",\"url\":\"http://fb.newdu.com/book/list-2-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},\n{\"title\":\"恐怖小说\",\"url\":\"http://fb.newdu.com/book/list-3-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"侦探小说\",\"url\":\"http://fb.newdu.com/book/list-4-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"军事历史小说\",\"url\":\"http://fb.newdu.com/book/list-5-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"科幻小说\",\"url\":\"http://fb.newdu.com/book/list-6-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"其他题材小说\",\"url\":\"http://fb.newdu.com/book/list-7-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"推理悬疑小说\",\"url\":\"http://fb.newdu.com/book/list-20-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"魔幻小说\",\"url\":\"http://fb.newdu.com/book/list-21-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"社会、言情小说\",\"url\":\"http://fb.newdu.com/book/list-22-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"励志小说\",\"url\":\"http://fb.newdu.com/book/list-23-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"探险小说\",\"url\":\"http://fb.newdu.com/book/list-25-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":0.25}},\n{\"title\":\"儿童文学\",\"url\":\"http://fb.newdu.com/book/list-19-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},\n{\"title\":\"综合性图书\",\"url\":\"http://fb.newdu.com/book/list-32-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}},\n{\"title\":\"外语原著\",\"url\":\"http://fb.newdu.com/book/list-33-1.html\",\"style\":{\"layout_flexGrow\":1,\"layout_flexBasisPercent\":1}}]",
+    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36\"\n}",
+    "lastUpdateTime": 1722349475324,
+    "respondTime": 180960,
+    "ruleBookInfo": {
+      "author": "class.comment@tag.h2.0@textNodes",
+      "coverUrl": "class.book_news_style_img1@tag.img@src",
+      "intro": "class.msgarea@textNodes",
+      "kind": "class.comment@tag.h2@tag.a@text",
+      "name": "class.comment@tag.h1@text",
+      "tocUrl": "class.book_article_listtext"
+    },
+    "ruleContent": {
+      "content": "class.book_middle_text@tag.dd@html",
+      "nextContentUrl": "class.book_middle_text_next@tag.a.-1@href",
+      "title": "class.book_middle_text@tag.dt@textNodes"
+    },
+    "ruleExplore": {},
+    "ruleReview": {},
+    "ruleSearch": {
+      "author": "class.book_news_style_text1@tag.h2@text##【.*",
+      "bookList": "class.book_news_style_form1",
+      "bookUrl": "class.book_news_style_img@tag.a@href",
+      "coverUrl": "class.book_news_style_img@tag.a@tag.img@src",
+      "intro": "class.book_news_style_text1@tag.h3@text",
+      "kind": "class.book_news_style_text1@tag.h1@tag.a.0@text",
+      "name": "class.book_news_style_text1@tag.h1@tag.a.1@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.book_article_listtext@tag.dd",
+      "chapterName": "dl > dd > a@textNodes",
+      "chapterUrl": "dl > dd > a@href"
+    },
+    "searchUrl": "http://fb.newdu.com/book/search.php?keyword={{key}}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "漫画·JD.Z",
+    "bookSourceName": "星甲漫画",
+    "bookSourceType": 2,
+    "bookSourceUrl": "https://www.xingjiamh.com/",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "exploreUrl": "[{\"title\":\"热漫\",\"url\":\"https://www.xingjiamh.com/manhua/tag/%E7%83%AD%E6%BC%AB\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"韩漫\",\"url\":\"https://www.xingjiamh.com/manhua/tag/%E9%9F%A9%E5%9B%BD\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"精彩\",\"url\":\"https://www.xingjiamh.com/manhua/tag/%E7%B2%BE%E5%BD%A9\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}},\n{\"title\":\"老师\",\"url\":\"https://www.xingjiamh.com/search/index?keywords=%E8%80%81%E5%B8%AB\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}}]",
+    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 SearchCraft/3.6.5 (Baidu; P1 9.0)\"\n}",
+    "lastUpdateTime": 1720859017378,
+    "respondTime": 4994,
+    "ruleBookInfo": {
+      "author": "class.state@text",
+      "intro": "",
+      "kind": "class.weui-label-s b-blue f-blue@text",
+      "lastChapter": "class.list-item.-1@text",
+      "name": "class.contWrap@tag.h1@text"
+    },
+    "ruleContent": {
+      "content": "class.center padding5@html",
+      "imageStyle": "FULL",
+      "nextContentUrl": "class.weui-btn weui-btn_mini weui-btn_primary@href"
+    },
+    "ruleExplore": {},
+    "ruleReview": {},
+    "ruleSearch": {
+      "bookList": "class.weui-media-box weui-media-box_appmsg",
+      "bookUrl": "class.weui-media-box weui-media-box_appmsg@href",
+      "coverUrl": "class.weui-media-box__thumb@src",
+      "intro": "class.weui-media-box__desc@text",
+      "name": "class.weui-media-box__title@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.list-item",
+      "chapterName": "class.list-item@tag.a@text",
+      "chapterUrl": "class.list-item@tag.a@href"
+    },
+    "searchUrl": "https://www.xingjiamh.com/search/index?keywords={{key}}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "漫画·JD.Z",
+    "bookSourceName": "酷酷漫画",
+    "bookSourceType": 2,
+    "bookSourceUrl": "http://www.kukumh.com/",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "exploreUrl": "所有漫画::http://www.kukumh.com/search/index\n热门搜索::http://www.kukumh.com/home/topsearch",
+    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 SearchCraft/3.6.5 (Baidu; P1 9.0)K,\n  \"Referer\": \"http://www.kukumh.com/\"\n}",
+    "lastUpdateTime": 1720859026879,
+    "respondTime": 3690,
+    "ruleBookInfo": {
+      "author": "class.a529-068d-be88-6744 item@tag.span@text",
+      "coverUrl": "",
+      "intro": "class.aa5d-c24c-a529-068d body@text",
+      "kind": "class.book_info2@tag.span@text",
+      "lastChapter": "class.ab62-1422-aa5d-c24c list chapters@tag.a.-1@text",
+      "name": "class.1422-aa5d-c24c-a529 title@text",
+      "tocUrl": "class.53d9-3aa8-001f-5bdd ac-box mb-tabar"
+    },
+    "ruleContent": {
+      "content": "class.lazyimg@html",
+      "imageStyle": "FULL",
+      "nextContentUrl": "class.center@tag.a.-1@href",
+      "title": "class.center@tag.p@text"
+    },
+    "ruleExplore": {},
+    "ruleReview": {},
+    "ruleSearch": {
+      "author": "",
+      "bookList": "class.weui-media-box weui-media-box_appmsg",
+      "bookUrl": "class.weui-media-box weui-media-box_appmsg@href",
+      "coverUrl": "class.weui-media-box__thumb@src",
+      "intro": "class.weui-media-box__desc@text",
+      "kind": "",
+      "lastChapter": "",
+      "name": "class.weui-media-box__title@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.1422-aa5d-c24c-a529 item",
+      "chapterName": "class.1422-aa5d-c24c-a529 item@tag.a@title",
+      "chapterUrl": "class.1422-aa5d-c24c-a529 item@tag.a@href"
+    },
+    "searchUrl": "http://www.kukumh.com/search/index?keywords={{key}}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "漫画·JD.Z",
+    "bookSourceName": "番茄漫画",
+    "bookSourceType": 2,
+    "bookSourceUrl": "https://www.fanqiemh.info/",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "exploreUrl": "[{\"title\":\"所有漫画\",\"url\":\"https://www.fanqiemh.info/search/index\",\"style\":{\"layout_flexBasisPercent\":0.25,\"layout_flexGrow\":1}}]",
+    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Mobile Safari/537.36 SearchCraft/3.6.5 (Baidu; P1 9.0)\"\n}",
+    "lastUpdateTime": 1721118129493,
+    "respondTime": 4106,
+    "ruleBookInfo": {
+      "author": "class.info@tag.p.0@text",
+      "coverUrl": "class.bookinfo@tag.img@src",
+      "intro": "class.intro@textNodes",
+      "kind": "class.info@tag.a@text",
+      "lastChapter": "class.even.-1@tag.a@text",
+      "name": "class.info@tag.h1@text",
+      "tocUrl": "class.last9"
+    },
+    "ruleContent": {
+      "content": "class.lazyimg@html",
+      "imageStyle": "FULL",
+      "nextContentUrl": ""
+    },
+    "ruleExplore": {},
+    "ruleReview": {},
+    "ruleSearch": {
+      "bookList": "class.weui-panel__bd@class.weui-media-box weui-media-box_appmsg",
+      "bookUrl": "class.weui-media-box weui-media-box_appmsg@href",
+      "coverUrl": "class.weui-media-box__thumb@src",
+      "intro": "class.weui-media-box__desc@textNodes",
+      "name": "class.weui-media-box__title@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.last9@class.even",
+      "chapterName": "class.even@tag.a@text",
+      "chapterUrl": "class.even@tag.a@href"
+    },
+    "searchUrl": "https://www.fanqiemh.info/search/index?keywords={{key}}&t_btnsearch=",
+    "weight": 0
+  },
+  {
+    "bookSourceGroup": "漫画·JD.Z",
+    "bookSourceName": "千骨漫画",
+    "bookSourceType": 2,
+    "bookSourceUrl": "https://www.qiangumh.com/",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "exploreUrl": "所有漫画::https://www.qiangumh.com/search/index",
+    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 SearchCraft/3.6.5 (Baidu; P1 9.0)K\"\n}",
+    "lastUpdateTime": 1721118220396,
+    "respondTime": 3970,
+    "ruleBookInfo": {
+      "author": "class.info@tag.span@textNodes",
+      "coverUrl": "",
+      "intro": "class.txt_wrap@textNodes",
+      "lastChapter": "class.g-game-recomd m-tab-box@tag.ul@tag.li.-1@tag.a@textNodes",
+      "name": "class.bt@textNodes",
+      "tocUrl": "class.g-game-recomd m-tab-box"
+    },
+    "ruleContent": {
+      "content": "class.lazyimg@html",
+      "nextContentUrl": ""
+    },
+    "ruleExplore": {},
+    "ruleReview": {},
+    "ruleSearch": {
+      "bookList": "class.weui-media-box weui-media-box_appmsg",
+      "bookUrl": "class.weui-media-box weui-media-box_appmsg@href",
+      "coverUrl": "class.weui-media-box__thumb@src",
+      "intro": "class.weui-media-box__desc@textNodes",
+      "name": "class.weui-media-box__title@textNodes"
+    },
+    "ruleToc": {
+      "chapterList": "class.g-game-recomd m-tab-box@tag.ul@tag.li",
+      "chapterName": "li > a@textNodes",
+      "chapterUrl": "li > a@href"
+    },
+    "searchUrl": "https://www.qiangumh.com/search/index?keywords={{key}}",
+    "weight": 0
+  },
+  {
+    "bookSourceGroup": "漫画·JD.Z",
+    "bookSourceName": "天堂漫画",
+    "bookSourceType": 2,
+    "bookSourceUrl": "https://www.tiantangmhw.com/",
+    "customOrder": 0,
+    "enabled": true,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "exploreUrl": "所有漫画::https://www.tiantangmhw.com/search/index",
+    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36 SearchCraft/3.6.5 (Baidu; P1 9.0)K\"\n}",
+    "lastUpdateTime": 1721119586385,
+    "respondTime": 4222,
+    "ruleBookInfo": {
+      "coverUrl": "class.img@tag.a@tag.img@src",
+      "intro": "class.zkjj_a@textNodes",
+      "kind": "class.content-rt@tag.p.1@tag.a@textNodes",
+      "lastChapter": "class.player.-1@tag.a@textNodes",
+      "name": "class.content-rt@tag.h1@textNodes",
+      "tocUrl": "class.player-all-ul gdt"
+    },
+    "ruleContent": {
+      "content": "class.lazyimg@html"
+    },
+    "ruleExplore": {},
+    "ruleReview": {},
+    "ruleSearch": {
+      "bookList": "class.weui-media-box weui-media-box_appmsg",
+      "bookUrl": "class.weui-media-box weui-media-box_appmsg@href",
+      "coverUrl": "class.weui-media-box__thumb@src",
+      "intro": "class.weui-media-box__desc@textNodes",
+      "name": "class.weui-media-box__title@textNodes"
+    },
+    "ruleToc": {
+      "chapterList": "class.player@tag.li",
+      "chapterName": "tag.a@textNodes",
+      "chapterUrl": "tag.a@href"
+    },
+    "searchUrl": "https://www.tiantangmhw.com/search/index?keywords={{key}}",
+    "weight": 0
+  },
+  {
+    "bookSourceComment": "",
+    "bookSourceGroup": "小说·JD.Z",
+    "bookSourceName": "唐库学习",
+    "bookSourceType": 0,
+    "bookSourceUrl": "http://www.tanglib.com/",
+    "customOrder": 1,
+    "enabled": false,
+    "enabledCookieJar": false,
+    "enabledExplore": true,
+    "exploreUrl": "",
+    "header": "{\n  \"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36\"\n}",
+    "lastUpdateTime": 1720866245667,
+    "respondTime": 1916,
+    "ruleBookInfo": {
+      "author": "class.none-listyle@tag.li.4@textNodes",
+      "coverUrl": "class.img-responsive border-cover-img@src",
+      "intro": "class.col-xs-12 mgt-15px@tag.div@textNodes",
+      "kind": "",
+      "lastChapter": "class.help-block.0@tag.a.-1@text##（.*",
+      "name": "class.col-xs-12@tag.h1@text",
+      "tocUrl": "class.help-block",
+      "wordCount": ""
+    },
+    "ruleContent": {
+      "content": "class.article-body  markdown-body editormd-preview-container@tag.p@html",
+      "imageStyle": "FULL",
+      "nextContentUrl": "class.hung-next@a@href"
+    },
+    "ruleExplore": {
+      "author": "",
+      "bookList": "",
+      "bookUrl": "",
+      "coverUrl": "",
+      "name": ""
+    },
+    "ruleReview": {},
+    "ruleSearch": {
+      "bookList": "class.clearfix",
+      "bookUrl": "class.col-sm-9 col-md-9 col-lg-10 col-xs-9@tag.a@href",
+      "coverUrl": "class.img-responsive border-cover-img@src",
+      "intro": "class.help-block book-description@textNodes",
+      "name": "class.col-sm-9 col-md-9 col-lg-10 col-xs-9@tag.h4@text"
+    },
+    "ruleToc": {
+      "chapterList": "class.help-block@tag.li",
+      "chapterName": "a@textNodes",
+      "chapterUrl": "a@href"
+    },
+    "searchUrl": "http://www.tanglib.com/search/result?wd={{key}}",
+    "weight": 0
+  }
+]
