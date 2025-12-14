@@ -2,7 +2,7 @@
 
 # 中文说明：
 
-这是收集并使用SkyQian所做的`verifyBookSource`书源检测软件已经检测通过了的`Legado`开源阅读书源。
+此为使用的`Legado`开源阅读的书源以及界面的备份文件。
 
 不确定是不是一定可以使用，但目前这是我我暂时优先使用的`Legado`开源阅读书源。
 
@@ -26,7 +26,7 @@
 
 # English description:
 
-This is a list of `Legado` reading books that I have collected and checked with SkyQian's `verifyBookSource` Source detection software.
+This is the source and interface backup file of the open-source reading book `Legado` that I used.
 
 I'm not sure if I can use it, but for now this is my preferred `Legado` reading source.
 
